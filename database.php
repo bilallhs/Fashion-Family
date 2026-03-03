@@ -5,7 +5,7 @@
 $host = 'localhost';
 $dbname = 'fashion_family';
 $user = 'root';
-$pass = '';
+$pass = 'root';
 
 try {
     // Création de l'instance PDO (Connexion)
